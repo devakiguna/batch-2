@@ -1,0 +1,13 @@
+ Username                                        Text  Sentiment_Score  \
+0     @user123     I love how supportive everyone is here!         0.562500   
+1    @musicfan  Feeling down today. Nothing seems to work.        -0.155556   
+2     @techguy   The update is okay, not much has changed.         0.200000   
+3  @traveler99        This trip was an absolute nightmare!         0.250000   
+4   @chef_life        Made the best pasta today! So happy!         1.000000   
+
+  Sentiment_Label  Emotion  
+0        Positive      Joy  
+1         Neutral  Sadness  
+2         Neutral  Neutral  
+3        Positive    Anger  
+4        Positive      Joy  
